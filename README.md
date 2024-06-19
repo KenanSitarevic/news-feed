@@ -13,5 +13,8 @@ npm install
 npm run dev
 ```
 - Run "php artisan serve" in your second terminal
+```js
+php artisan serve
+```
 - Open the link that the second terminal provided you 
 - Enjoy!
