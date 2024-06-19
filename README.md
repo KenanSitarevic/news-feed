@@ -1,4 +1,4 @@
-# The movie Database
+# News Feed site
 
 Follow these steps to open the project on your machine:
 
