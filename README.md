@@ -1,6 +1,10 @@
 # News Feed site
 
-Follow these steps to open the project on your machine:
+Requirements: 
+- installed php
+- installed composer
+
+Follow these steps to run the project on your machine:
 
 - Clone this repository
 - Open your terminal and run "npm install", "composer install" and "php artisan migrate"
