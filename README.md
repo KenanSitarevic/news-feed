@@ -3,9 +3,11 @@
 Follow these steps to open the project on your machine:
 
 - Clone this repository
-- Open your terminal and run "npm install"
+- Open your terminal and run "npm install", "composer install" and "php artisan migrate"
 ```js
 npm install
+composer install
+php artisan migrate
 ```
 - Open two terminals
 - Run "npm run dev" in your first terminal
